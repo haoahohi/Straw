@@ -22,7 +22,7 @@ Backend hooked up, basic `install`/`remove`/`search` works. `sysupgrade` and ful
 
 ### 🚧 Alpine (apk) / Void (xbps)
 Backend stub only. Currently throws error: `"Alpine Linux $(_ status_dev)"` (same for Void). Implementation pending.
-### How to install
+## ✅ How to install
 You can install Straw manually or via Copr (Fedora/Alma/RHEL).
 #### manual install
 Download the latest release asset (a file called "straw")into your download folder
