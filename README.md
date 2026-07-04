@@ -25,5 +25,5 @@ Backend stub only. Currently throws error: `"Alpine Linux $(_ status_dev)"` (sam
 ### How to install
 You can install Straw manually or via Copr (Fedora/Alma/RHEL).
 #### copr install (ONLY FOR FEDORA/ALMA/RHEL)
-`sudo dnf copr enable haoahohi/Straw`
+`sudo dnf copr enable haoahohi/Straw`  
 `sudo dnf install straw`
