@@ -25,9 +25,9 @@ Backend stub only. Currently throws error: `"Alpine Linux $(_ status_dev)"` (sam
 ## How to install
 You can install Straw manually or via Copr (Fedora/Alma/RHEL).
 ### ✅ manual install
-Download the latest release asset (a file called "straw")into your download folder
-go to your download folder,and open it in Terminal
-Enter:  
+1.Download the latest release asset (a file called "straw")into your download folder  
+2.go to your download folder,and open it in Terminal
+3.Enter:  
 `chmod + x straw`  
 `sudo mv straw /usr/local/bin/`
 ### ✅ copr install (ONLY FOR FEDORA/ALMA/RHEL)
