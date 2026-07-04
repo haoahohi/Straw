@@ -24,12 +24,12 @@ Backend hooked up, basic `install`/`remove`/`search` works. `sysupgrade` and ful
 Backend stub only. Currently throws error: `"Alpine Linux $(_ status_dev)"` (same for Void). Implementation pending.
 ## ✅ How to install
 You can install Straw manually or via Copr (Fedora/Alma/RHEL).
-#### manual install
+### manual install
 Download the latest release asset (a file called "straw")into your download folder
 go to your download folder,and open it in Terminal
 Enter:  
 `chmod + x straw`  
 `sudo mv straw /usr/local/bin/`
-#### copr install (ONLY FOR FEDORA/ALMA/RHEL)
+### copr install (ONLY FOR FEDORA/ALMA/RHEL)
 `sudo dnf copr enable haoahohi/Straw`  
 `sudo dnf install straw`
